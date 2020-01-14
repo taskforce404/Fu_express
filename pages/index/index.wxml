@@ -1,0 +1,14 @@
+<view class="titleContainer">
+  <image class="FU" src="/img/wuFu.png" mode="widthFix"></image>
+</view>
+<view class="rect_top">
+  <view class="rect_top_left"></view>
+  <view class="rect_top_right"></view>
+</view>
+<image class="FU_img" src="{{url}}" mode="widthFix"></image>
+<view class="rect_bottom">
+  <view class="rect_bottom_left"></view>
+  <view class="rect_bottom_right"></view>
+</view>
+<image class="yao_yi_yao" src="/img/yaoyiyao@3x.png" mode="widthFix"></image>
+<button id="bt" open-type="share">分享</button>
